@@ -1,2 +1,3 @@
-# safe_place
-Future policy for naming concept among IT. Places where processes don't have to run, because we execute them.
+# safe place
+
+Naming system that does not require something running while being executed for processes to work.
